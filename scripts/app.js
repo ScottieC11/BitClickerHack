@@ -1,5 +1,5 @@
-var bitcoins = 0
-var bitcoinRate = 0
+var bitcoins = 999999999999999999
+var bitcoinRate = 99999999999999999999
 
 // Every item in the game
 // TODO: items should be part of the Game variable
