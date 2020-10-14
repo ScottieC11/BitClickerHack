@@ -6,75 +6,75 @@ var bitcoinRate = 99999999999999999999
 var items = [
   {
     "name": "item_oldCalculator",
-    "price": "0.0000001"
+    "price": "0.0000000"
   },
   {
     "name": "item_oldCpu",
-    "price": "0.00000125"
+    "price": "0.00000000"
   },
   {
     "name": "item_oldComputerFromGrandpa",
-    "price": "0.00003"
+    "price": "0.00000"
   },
   {
     "name": "item_rapsberrypy",
-    "price": "0.00005"
+    "price": "0.00000"
   },
   {
     "name": "item_smartphone",
-    "price": "0.0005"
+    "price": "0.0000"
   },
   {
     "name": "item_middleClassPC",
-    "price": "0.0015"
+    "price": "0.000"
   },
   {
     "name": "item_cheapServer",
-    "price": "0.004"
+    "price": "0.000"
   },
   {
     "name": "item_gamingPC",
-    "price": "0.015"
+    "price": "0.000"
   },
   {
     "name": "item_cheapMiner",
-    "price": "0.05"
+    "price": "0.00"
   },
   {
     "name": "item_highEndUltraPC",
-    "price": "0.15"
+    "price": "0.00"
   },
   {
     "name": "item_bigMiner",
-    "price": "1.5"
+    "price": "0.0"
   },
   {
     "name": "item_miningFarm",
-    "price": "250"
+    "price": "000"
   },
   {
     "name": "item_nasaPC",
-    "price": "5000"
+    "price": "0000"
   },
   {
     "name": "item_quantumRig",
-    "price": "245000"
+    "price": "0"
   },
   {
     "name": "item_miningFarmSpace",
-    "price": "2000000"
+    "price": "0"
   },
   {
     "name": "item_miningFarmMoon",
-    "price": "75500000"
+    "price": "0"
   },
   {
     "name": "item_bitcoinTimeMachine",
-    "price": "975000000"
+    "price": "0"
   },
   {
     "name": "item_blackHolePoweredMiner",
-    "price": "750000000000"
+    "price": "0"
   }
 ]
 
